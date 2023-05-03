@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\clone flyaway for sharing\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2987946423.index
+4193131251.index
+1238655367.index
+2220087429.index
+3092624880.index

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\clone flyaway for sharing\.metadata\.plugins\org.eclipse.jdt.core
+4193131251.index
+1151521893.index
+1865797976.index
